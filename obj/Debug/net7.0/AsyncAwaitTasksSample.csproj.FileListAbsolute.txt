@@ -1,0 +1,15 @@
+D:\Git_project\AsyncAwaitTasksSample\bin\Debug\net7.0\AsyncAwaitTasksSample.exe
+D:\Git_project\AsyncAwaitTasksSample\bin\Debug\net7.0\AsyncAwaitTasksSample.deps.json
+D:\Git_project\AsyncAwaitTasksSample\bin\Debug\net7.0\AsyncAwaitTasksSample.runtimeconfig.json
+D:\Git_project\AsyncAwaitTasksSample\bin\Debug\net7.0\AsyncAwaitTasksSample.dll
+D:\Git_project\AsyncAwaitTasksSample\bin\Debug\net7.0\AsyncAwaitTasksSample.pdb
+D:\Git_project\AsyncAwaitTasksSample\obj\Debug\net7.0\AsyncAwaitTasksSample.csproj.AssemblyReference.cache
+D:\Git_project\AsyncAwaitTasksSample\obj\Debug\net7.0\AsyncAwaitTasksSample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git_project\AsyncAwaitTasksSample\obj\Debug\net7.0\AsyncAwaitTasksSample.AssemblyInfoInputs.cache
+D:\Git_project\AsyncAwaitTasksSample\obj\Debug\net7.0\AsyncAwaitTasksSample.AssemblyInfo.cs
+D:\Git_project\AsyncAwaitTasksSample\obj\Debug\net7.0\AsyncAwaitTasksSample.csproj.CoreCompileInputs.cache
+D:\Git_project\AsyncAwaitTasksSample\obj\Debug\net7.0\AsyncAwaitTasksSample.dll
+D:\Git_project\AsyncAwaitTasksSample\obj\Debug\net7.0\refint\AsyncAwaitTasksSample.dll
+D:\Git_project\AsyncAwaitTasksSample\obj\Debug\net7.0\AsyncAwaitTasksSample.pdb
+D:\Git_project\AsyncAwaitTasksSample\obj\Debug\net7.0\AsyncAwaitTasksSample.genruntimeconfig.cache
+D:\Git_project\AsyncAwaitTasksSample\obj\Debug\net7.0\ref\AsyncAwaitTasksSample.dll
